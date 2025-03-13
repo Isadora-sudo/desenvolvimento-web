@@ -6,7 +6,7 @@
 scale=1.0">
  <title>Currículo</title>
  </head>
- <body>
+ <body> 
     <center> 
  <h1>Isadora Jardim Azevedo</h1>
  <section>
