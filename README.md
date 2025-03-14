@@ -16,31 +16,31 @@ scale=1.0">
 Projetos
     <td><img  width="70"  height="30"  src="C:\Users\202410210063\Desktop\currículo\imagem\7211162.png" /></td>
 
-    <a
+   <a
       href="file:///C:/Users/202410210063/Desktop/projetos.html"
       title="Isadora">
       Projetos</a>.
 
-      Projetos
+   Projetos
       <td><img  width="70"  height="30"  src="C:\Users\202410210063\Desktop\currículo\imagem\7211162.png" /></td>
 
-       <a
+   <a
         href="file:///C:/Users/202410210063/Desktop/documentos.html"
         title="Isadora">
      Documentos</a>.
 
-     Projetos 
+   Projetos 
      <td><img  width="70"  height="30"  src="C:\Users\202410210063\Desktop\currículo\imagem\7211162.png" /></td>
 
-     <a
+   <a
       href="file:///C:/Users/202410210063/Desktop/outros.html"
       title="Isadora">
       Roupas</a>.
 
-     Projetos 
+   Projetos 
      <td><img  width="70"  height="30"  src= "C:\Users\202410210063\Desktop\currículo\imagem\7211162.png"/></td>
 
-     <a
+   <a
      href="file:///C:/Users/202410210063/Desktop/curr%C3%ADculo/formul%C3%A1rio.html"
      title="Isadora">
     Formulário</a>.
